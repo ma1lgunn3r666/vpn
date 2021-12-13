@@ -1,9 +1,9 @@
 #logonbox-logoimage { 
-background-image : url('https://raw.githubusercontent.com/ma1lgunn3r666/vpn/main/cloned-vpn/logon/themes/Default/custom_media/mapei-logo.png'); 
+background-image : url(https://raw.githubusercontent.com/ma1lgunn3r666/vpn/main/cloned-vpn/logon/themes/Default/custom_media/mapei-logo.png); 
  }
 
 #logonbox-logoarea.NS-AAA #logonbox-logoimage { 
-background-image : url('https://raw.githubusercontent.com/ma1lgunn3r666/vpn/main/cloned-vpn/logon/themes/Default/custom_media/mapei-logo.png'); 
+background-image : url(https://raw.githubusercontent.com/ma1lgunn3r666/vpn/main/cloned-vpn/logon/themes/Default/custom_media/mapei-logo.png); 
  }
 
 .CTX_ContentTitleHeader { 

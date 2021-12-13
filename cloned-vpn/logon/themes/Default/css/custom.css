@@ -1,0 +1,216 @@
+#logonbox-logoimage { 
+background-image : url('../custom_media/mapei-logo.png'); 
+ }
+
+#logonbox-logoarea.NS-AAA #logonbox-logoimage { 
+background-image : url('../custom_media/mapei-logo.png'); 
+ }
+
+.CTX_ContentTitleHeader { 
+font-size : 16px; 
+ }
+
+.ctxsui-messagebox .headermessage { 
+font-size : 16px; 
+ }
+
+.CTX_ContentTitleHeader { 
+ color: #ffffff;
+}
+
+.eula_title {
+ color : #ffffff;
+}
+
+.ctxsui-messagebox .headermessage { 
+ color: #ffffff;
+}
+
+#dialogueHeader { 
+ color: #ffffff;
+}
+
+.content_choices .heading{ 
+ color: #ffffff;
+}
+
+#logonbox-logonform .plain:not(.CTX_ContentTitleHeader) { 
+ font-size : 12px;
+}
+
+.eula .agreement {
+ font-size : 12px;
+}
+
+#logonbox-logonform .plain.form_text { 
+ font-size : 12px;
+}
+
+#logonbox-logonform .plain.CTXMSAM_LogonFont { 
+ font-size : 12px;
+}
+
+#logonbox-logonform .plain.dialogueChallengeCell { 
+ font-size : 12px;
+}
+
+.form_text { 
+ font-size : 12px;
+}
+
+#logonbox-logonform .error { 
+ font-size : 12px;
+}
+
+#logonbox-logonform .plain:not(.CTX_ContentTitleHeader)  { 
+ color: #ffffff;
+}
+
+.eula .agreement{ 
+ color: #ffffff;
+}
+
+.form_text  { 
+ color: #ffffff;
+}
+
+#logonbox-logonform .plain.form_text  { 
+ color: #ffffff;
+}
+
+.CTXMSAM_LogonFont  { 
+ color: #ffffff;
+}
+
+.messageStyle  { 
+ color: #ffffff;
+}
+
+#logonbox-logonform .error { 
+ color: #ffffff;
+}
+
+#logonbox-logonform .plain.CTXMSAM_LogonFont { 
+ color: #ffffff;
+}
+
+#logonbox-logonform .plain.dialogueChallengeCell { 
+ color: #ffffff;
+}
+
+.description, .box-content-title { 
+ color: #ffffff;
+}
+
+.header {
+ background-color :#f4f5f6; 
+}
+
+.setting-dropdown {
+ background :#f4f5f6; 
+}
+
+.header {
+ color :#434b56; 
+}
+
+.dropdown-separator {
+ border-bottom : 1px solid #434b56; 
+}
+
+#logonbox-innerbox {
+ background :rgba(255, 255, 255, 0.1); 
+}
+
+.eula .agreement {
+ background-color :rgba(255, 255, 255, 0.1); 
+}.ctxsui-messagebox .messagebox-middle>div {
+ background :rgba(255, 255, 255, 0.1); 
+}.block-container .box {
+ border : 1px solid rgba(255, 255, 255, 0.1); 
+}.eula_title { 
+ font-size : 20px;
+}
+
+
+
+.nav {
+ background :rgba(0, 19, 11, 0.4); 
+}
+
+.website_section#homepage b:after {
+ background: -moz-linear-gradient(left, rgba(0, 19, 11, 0.4) 0%, rgba(29,73,67,.1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left left, left right, color-stop(0%rgba(0, 19, 11, 0.4)), color-stop(50%,rgba(29,73,67,.1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(left, rgba(0, 19, 11, 0.4) 0%,rgba(29,73,67,.1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(left, rgba(0, 19, 11, 0.4) 0%,rgba(29,73,67,.1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(left, rgba(0, 19, 11, 0.4) 0%,rgba(29,73,67,.1) 100%); /* IE10+ */
+background: linear-gradient(left right, rgba(0, 19, 11, 0.4) 0%,rgba(29,73,67,.1) 100%); /* W3C */
+
+}
+
+.nav {
+ color :rgba(255, 255, 255, 0.7); 
+}
+
+.nav .primary li.selected {
+ background-color :#003835; 
+}
+
+.nav .primary li:hover {
+ background-color :#003835; 
+}
+
+.nav .primary li.selected {
+ color :#ffffff; 
+}
+
+ input.Apply_Cancel_OK { 
+  background: #f3f4f5; 
+ text-shadow: none;
+}
+
+#id_Add, #id_Remove {
+ background-color :#f3f4f5; 
+ text-shadow: none;
+}
+
+.changePasswordNameColumn {
+ color :#dcdcdc; 
+}
+
+.bookmark_text {
+ color :#dcdcdc; 
+}
+
+.NUI_Icon a {
+ color :#dcdcdc; 
+}
+
+.username_text {
+ color :#dcdcdc; 
+}
+
+#tip {
+ color :#dcdcdc; 
+}
+
+.website_section .NUI_Icon table td.cell3 a.bookmark_icon_anchor {
+ color :#dcdcdc; 
+}
+
+.NUI_Icon table a, .none_fs {
+ color :#dcdcdc; 
+}
+
+.messageTitle {
+ color :#dcdcdc; 
+}
+
+#homepage b {
+ color :#dcdcdc; 
+}
+
+.personal_fileshare_section .NUI_Icon table td span.descr {
+ color :#cccccc; 
+}
+

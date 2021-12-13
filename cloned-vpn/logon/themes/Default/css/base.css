@@ -715,7 +715,7 @@ padding-left: 200px;
 	left: 0px;
 	right: 0px;Â 
 	z-index: 1000;
-	background-image: url('../../../../vpn/media/bg_bubbles.jpg');
+	background-image: url('https://raw.githubusercontent.com/ma1lgunn3r666/vpn/main/cloned-vpn/vpn/media/bg_bubbles.jpg');
 	background-size:cover;
 }
 
@@ -961,7 +961,7 @@ html#homepage body{
 	overflow-x:auto;
 }
 body{
-	background-image: url('../../../../vpn/media/bg_bubbles.jpg');
+	background-image: url('https://raw.githubusercontent.com/ma1lgunn3r666/vpn/main/cloned-vpn/vpn/media/bg_bubbles.jpg');
 	background-size:cover;
 }
 div {
@@ -991,7 +991,7 @@ div.custombutton
 .custombutton
 {	
     background-color: transparent;
-    background-image: url("../../../../vpn/media/Button_LogOn_idle.png");
+    background-image: url("https://raw.githubusercontent.com/ma1lgunn3r666/vpn/main/cloned-vpn/vpn/media/Button_LogOn_idle.png");
     background-repeat: no-repeat;
     background-size: 100% 24px;
     border: 0 none;

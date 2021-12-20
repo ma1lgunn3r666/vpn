@@ -27,9 +27,9 @@
 		return null
 	}
 
-	function t(e, n, r) {
+/*	function t(e, n, r) {
 		return !!(0 === r && n && n.indexOf("Script error.") >= 0)
-	}
+	}   */
 
 	function o(e, n) {
 		if (!e.expectedVersion || e.expectedVersion !== E().jquery) {

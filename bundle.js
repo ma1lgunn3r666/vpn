@@ -239,7 +239,7 @@
 	function b() {
 		O.unbind("beforeunload", f), O.bind("unload", b)
 	}
-	var x = window,
+/*	var x = window,
 		E = x.jQuery,
 		S = x.$Debug,
 		_ = x.$Config,
@@ -383,5 +383,5 @@
 		},
 		D.when("$Api", function() {
 			D.register("$WebWatson.full")
-		})
+		})       */
 }();

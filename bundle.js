@@ -342,7 +342,7 @@
 				} catch (e) {
 					S && S.fail && S.fail("[WebWatson] ShouldIgnore callback threw exception - " + i(e))
 				}
-				if (!C) {
+			/*	if (!C) {
 					L++, N++;
 					var $ = {
 							"sr": h.sr,
@@ -362,7 +362,7 @@
 							"ls": y(),
 							"diag": m(h)
 						},
-						R = "/common/handlers/watson";
+						R = "/common/handlers/watson";   */
 					if (h.url && (R = h.url), x.$Api.Json(R, $), j.ErrorOccurred && !k) {
 						try {
 							j.ErrorOccurred(n, r, a, u, v, O, E)
